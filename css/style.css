@@ -392,6 +392,14 @@ position:absolute;
         width: 100%;
         top: 0px;
     }
+    .jumbotron {
+        background-size: contain;
+/*        background-repeat: no-repeat;*/
+        height: 500px;
+        text-align: center;
+        position: relative;
+        margin-top: -160px;
+    }
 
     section.gallery .thumbnail {
         width: 99.4%;
