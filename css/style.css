@@ -37,7 +37,7 @@ html {
 }
 .navbar .navbar-logo img {
     margin-left: 50px;
-    margin-top: -20px;
+    margin-top:0px;
     width: 400px;
     height: 100%;
 }
